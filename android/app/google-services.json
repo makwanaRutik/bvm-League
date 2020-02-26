@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48011682735",
+    "firebase_url": "https://bring-me-thanos.firebaseio.com",
+    "project_id": "bring-me-thanos",
+    "storage_bucket": "bring-me-thanos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48011682735:android:74f35214d696bd47ba455a",
+        "android_client_info": {
+          "package_name": "com.thunder.bvm_primium_league"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48011682735-lgit11f93u1t6ab2tft6a8d9sgocd2o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiGVpQ9FWbN-KQ00r_I6hZ_RNclZNugYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48011682735-lgit11f93u1t6ab2tft6a8d9sgocd2o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
