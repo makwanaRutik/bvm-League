@@ -1,6 +1,7 @@
 # bvm_primium_league
 
 A new Flutter application.
+This project is Done by me , i am Student at IIT Madras CS21M055.
 
 ## Getting Started
 
